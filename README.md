@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itsfingerlickinggood
-- 👀 I’m interested in ... ML,AI,Git,Py
-- 🌱 I’m currently learning ... basics
+- 👀 I’m interested in ... ML,AI,Git,Py,Full-Stack
+- 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ... various projects
 - 📫 How to reach me ... contact me @ sonuipad05@gmail.com
 
