@@ -1,9 +1,9 @@
-👀 Interested around the realms of ML, AI, Git, Py, and Full-Stack development.
+🚀 AI: AGI enthusiast, dreaming of a future with conscious machines.
+🔥 Fusion: A clean energy future is coming.
+🧮 Math: Numbers are my playground.
+🌌 Space: Beyond the horizon lies infinite possibilities.
+🧬 Biology: Understanding life's intricacies.
 
-🌱 Currently immersed in a continuous learning journey to deepen my expertise.
+Let's build a better world together! 🏁
 
-📧 Reach out to me at sonuipad05@gmail.com to explore collaboration opportunities!
-<!---
-itsfingerlickinggood/itsfingerlickinggood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+X: 2005 - ∞
