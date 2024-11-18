@@ -3,5 +3,6 @@
 🧮 Math
 🌌 Space
 🧬 Biology
+💹 Quant
 
 X: 2005 - ∞
